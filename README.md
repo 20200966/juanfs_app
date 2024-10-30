@@ -1,6 +1,8 @@
-# juanfs_app
+# 1st_flutter_app
 
 A new Flutter project.
+This is the first flutter app 
+by Juan Manuel Flores 2020-0966
 
 ## Getting Started
 
